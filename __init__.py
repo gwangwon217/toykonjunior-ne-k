@@ -1,5 +1,5 @@
 from mycroft import MycroftSkill, intent_file_handler
-import os
+from . import Update
 
 class ToykonjuniorNeK(MycroftSkill):
     def __init__(self):
@@ -11,11 +11,8 @@ class ToykonjuniorNeK(MycroftSkill):
 
     @intent_file_handler('update.intent')
     def handle_update(self, message):
-        os.system("git clean -n -f -d")
-        os.system('git fetch --all')
-        os.system("git reset --hard origin/master") 
-     
-        self.speak_dialog('updated success !')
+        Update.func1()
+        self.speak_dialog('updated success !12312')
        
 def create_skill():
     return ToykonjuniorNeK()

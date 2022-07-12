@@ -11,7 +11,8 @@ class ToykonjuniorNeK(MycroftSkill):
 
     @intent_file_handler('update.intent')
     def handle_update(self, message):
-        os.system("git clone https://github.com/gwangwon217/toykonjunior-ne-k.git") 
+        os.system("git reset --hard origin/master") 
+        os.system("git pull") 
         self.speak_dialog('updated success !')
 
 def create_skill():

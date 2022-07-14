@@ -1,0 +1,30 @@
+{
+    "skillname": "ToykonjuniorNeK",
+    "skillGitUrl": "https://github.com/gwangwon217/toykonjunior-ne-k.git",
+    "bookName": "Nature and Earth",
+    "step": "K",
+    
+    "contents": [
+      {
+        "unit": "1",    
+        "dialogue": {
+          "listen": [
+            "I'm in the garden.",
+            "We have many flowers.",
+            "We have many flowers in the garden. "
+          ],
+          "say": [
+            "I'm in the garden.",
+            "We have many flowers.",
+            "We have many flowers in the garden. "
+          ]
+        },
+        "word": [
+          "Bird",
+          "Butterfly",
+          "Tree"
+        ],
+        "song": {"name":"", "url":""}
+      }
+    ]
+  }

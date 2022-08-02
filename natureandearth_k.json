@@ -1,0 +1,154 @@
+{
+  "skillname": "ToykonjuniorNeK",
+  "skillGitUrl": "https://github.com/gwangwon217/toykonjunior-ne-k.git",
+  "bookIndex": "1",
+  "unitlist": [
+    {
+      "unit": "1",
+      
+      "dialogue": {
+        "title": "In the Garden",
+        "listen": [
+          "I'm in the garden.",
+          "We have many flowers.",
+          "We have many flowers in the garden. "
+        ],
+        "say": [
+          "I'm in the garden.",
+          "We have many flowers.",
+          "We have many flowers in the garden. "
+        ]
+      },
+      "word": {
+        "title":"Here we are. Listen and follow me.",
+        "listen":[
+        "bird",
+        "butterfly",
+        "tree"
+        ]
+      },
+      "song": {
+        "name": "",
+        "url": ""
+      },
+      "minibook":{
+        "title":"Listen and read.",
+        "listen":[
+          "There was a little dinosaur called, 'Tira.'",
+          "Tira played the plains and near some waterfall.s",
+          "Tira wondered what was up on the mountain.",
+          "She decided to go up to the top.",
+          "Suddenly, she felt some shaking.",
+          "Oh! A volcano!",
+          "Tira was scared and ran down to her mom.",
+          "Tira's family had to leave their home.",
+          "Bye!"
+        ] 
+      }
+    },
+    {
+      "unit": "2",
+     
+      "dialogue": {
+        "title": "In the Garden unit 222",
+        "listen": [
+          "I'm digging with a shovel.",
+          "We're watering flowers.",
+          "We're moving a tree. ",
+          "Today, we're planting and gardening in the garden."
+        ],
+        "say": [
+          "I'm digging with a shovel.",
+          "We're watering flowers.",
+          "We're moving a tree. ",
+          "Today, we're planting and gardening in the garden."
+        ]
+      },
+      "word": {
+        "title":"Here we are. Listen and follow me.",
+        "listen":[
+          "fence",
+          "garden",
+          "pot",
+          "seeds",
+          "shovel",
+          "water pot"
+        ]
+      },
+      "song": {
+        "name": "",
+        "url": ""
+      },
+      "minibook":{
+        "title":"Listen and read.",
+        "listen":[
+          "My Little Garden",
+          "Look at my flowers.",
+          "There are so beautiful.",
+          "I want flowers and trees.",
+          "What do I need?",
+          "Oh, I need a pot and a shovel.",
+          "I need a water pot and soil, too.",
+          "First, put a seed into the soil and cover it.",
+          "Second, water the seed and see the growing plant.",
+          "Finally, I have a plant.",
+          "See? It's my little garden."
+        ] 
+      }
+    },
+    {
+      "unit": "3",
+     
+      "dialogue": {
+        "title": "Nature and Disaster",
+        "listen": [
+          "It's great, Dad!",
+          "What's that?",
+          "Really? A real volcano?",
+          "Ok, Dad."
+        ],
+        "say": [
+          "Let's go up to the top.",
+          "Oh, the volcano is about the erupt.",
+          "Yes! And we can't go up to the top today. ",
+          "We should go down now, Daniel."
+        ]
+      },
+      "word": {
+        "title":"Here we are. Listen and follow me.",
+        "listen":[
+          "glacier",
+          "hill",
+          "jungle",
+          "plains",
+          "plateau",
+          "swamp",
+          "volcano",
+          "waterfall"
+        ]
+      },
+      "song": {
+        "name": "",
+        "url": ""
+      },
+      "minibook":{
+        "title":"Listen and read.",
+        "listen":[
+          "Little Dino's Adventure",
+          "There was a little dinosaur called, 'Tira.'",
+          "Tira played the plains and near some waterfall.s",
+          "Tira wondered what was up on the mountain. ",
+          "She decided to go up to the top.",
+          "Suddenly, she felt some shaking. ",
+          "Oh! A volcano!",
+          "Tira was scared and ran down to her mom.",
+          "Tira's family had to leave their home. ",
+          "Bye!"
+        ] 
+      }
+    }
+
+
+
+  ]
+}

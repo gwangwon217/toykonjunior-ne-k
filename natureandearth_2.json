@@ -1,0 +1,66 @@
+{
+  "skillname": "ToykonjuniorNeK",
+  "skillGitUrl": "https://github.com/gwangwon217/toykonjunior-ne-k.git",
+  
+  "bookIndex":"1", 
+  
+  "step": {
+    "k":{
+      "unitlist":[
+        {
+          "unit": "1",
+          "title":"Unit 1 In the Garden",    
+          "dialogue": {
+            "listen": [
+              "I'm in the garden.",
+              "We have many flowers.",
+              "We have many flowers in the garden. "
+            ],
+            "say": [
+              "I'm in the garden.",
+              "We have many flowers.",
+              "We have many flowers in the garden. "
+            ]
+          },
+          "word": [
+            "Bird",
+            "Butterfly",
+            "Tree"
+          ],
+          "song": {"name":"", "url":""}
+        },
+        {
+          "unit": "2",    
+          "dialogue": {
+            "listen": [
+              "I'm in the garden.",
+              "We have many flowers.",
+              "We have many flowers in the garden. "
+            ],
+            "say": [
+              "I'm in the garden.",
+              "We have many flowers.",
+              "We have many flowers in the garden. "
+            ]
+          },
+          "word": [
+            "Bird",
+            "Butterfly",
+            "Tree"
+          ],
+          "song": {"name":"", "url":""}
+        } 
+
+      ]
+    
+    },
+
+  
+  "1":{
+
+  },
+  "2":{
+
+  }
+}
+}
